@@ -1,14 +1,14 @@
 # Project title
 
-Lead yourself towards better life by optimizing your resources (wiht personal advisor)
+Lead yourself towards better life by optimizing your resources (with personal advisor)
 
 ## Summary
 
- It is typical that people give more resources than they can receive. As they receive more resources than they give, they typically feel better and healthier. This way they can give more to life and work that also feed their recourses and body. 
+It is typical that people give more resources than they can receive. As they receive more resources than they give, they typically feel better and healthier. This way they can give more to life and work that also feed their recourses and body. 
 
 
 ## Background
-People are typically too tired or exhausted to receive or give resources. This solution improves personal recourses, wellbeing and health by raising self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills.
+People are typically too tired or exhausted to receive or give resources. This solution improves personal recourses, wellbeing and health by raising personal self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills.
 
 This is how you make a list, if you need one:
 * People are typically not productive and helpful. 
