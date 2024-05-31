@@ -8,7 +8,7 @@ It is typical that people give more resources than they can receive. As they rec
 
 
 ## Background
-People are typically too tired or exhausted to receive or give resources. This solution improves personal recourses, wellbeing and health by raising personal self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills.
+People are typically too tired or exhausted to receive or give resources. This solution improves personal recourses, wellbeing and health by raising personal self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, relaxing, and emotional skills.
 
 This is how you make a list, if you need one:
 * People are typically not productive and helpful. 
@@ -51,15 +51,15 @@ main()
 
 Data can be collected by myself or by someone else. Collected data aims for improving personal recourses and wellbeing by raising self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills.
 Inputs:
-* sleep (quality, amount, 
+* sleep (quality, amount)
 * nutrition
 * needs (acceptance, closeness, love, 
 * circadian rhythm (timing, person type, 
 * activities
-* emotions
-* thoughts
+* emotions (management, amount, quality)
+* thoughts (quality, management)
 * work (breaks, timing, flow, readiness, education, 
-* health behavior (alcohol, smoking, emotions)
+* health behavior (alcohol, smoking, emotions, relaxing)
 * stress (management, quality)
 * resilience, readiness (pain, cold, hot)
 * health status
