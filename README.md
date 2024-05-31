@@ -1,20 +1,20 @@
-# Project Title
+# Project title
 
-Final project for the Building AI course
+Lead yourself towards better life by optimizing your resources (wiht personal advisor)
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+ It is typical that people give more resources than they can receive. As they receive more resources than they give, they typically feel better and healthier. This way they can give more to life and work that also feed their recourses and body. 
 
 
 ## Background
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+People are typically too tired or exhausted to receive or give resources. This solution improves personal recourses, wellbeing and health by raising self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills.
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* People are typically not productive and helpful. 
+* People cannot typically enjoy life.
+* People do not typically feel well.
+* People are not typically energetic and healthly.
 
 
 ## How is it used?
@@ -48,14 +48,22 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Data can be collected by myself or by someone else. Collected data aims for improving personal recourses and wellbeing by raising self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills.
+Inputs:
+* sleep (quality, amount, 
+* nutrition
+* needs (acceptance, closeness, love, 
+* circadian rhythm (timing, person type, 
+* activities
+* emotions
+* thoughts
+* work (breaks, timing, flow, readiness, education, 
+* health behavior (alcohol, smoking, emotions)
+* stress (management, quality)
+* resilience, readiness (pain, cold, hot)
+* health status
+  
 
 ## Challenges
 
