@@ -31,14 +31,25 @@ The solution is used when people need personal assistance to have more resources
 Figure: 
 * Voimavarojen saaminen = receiving recourses: meaningful work, sleep, activities, needs etc. 
 * Voimavarojen antaminen = giving recourses: work, family, friends, activities etc.
-* Voimavarkaita = stress factors: negative thoughts and emotions, bad fitness, bad work management, alcohol, bad conscience, unsafety, conflict of values etc. 
+* Voimavarkaita = stress factors: negative thoughts and emotions, bad fitness, bad work management, alcohol, bad conscience, unsafety, conflict of values, pushing hard etc. 
 * Hyvinvoinnin pohja = base of recourses, wellbeing and resilience: self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, relaxing and enjoying, and emotional skills
 * Oma raja = own border
 
 
 ## Data sources and AI methods
 
-Data can be collected by myself or someone else. Collected data aims for improving personal recourses and wellbeing by improving self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills. The idea is that a user gives inputs after which the user gets a personal receipt for improving wellbeing and health. After that a user can specify the the receipt with chatbot if needed. AI methods consist of convolutional neural network with machine learning (deep learning). 
+Data is collected by myself or someone else. Collected data aims for improving personal recourses and wellbeing by improving self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills. 
+
+
+    User signs up and provides initial preferences: Users input their preferences and interests during sign-up.
+    AI analyzes data: The AI processes user preferences, shopping history, and available product data.
+    Personalized recommendations: The assistant offers product recommendations based on the analysis.
+    Feedback loop: Users provide feedback on recommendations, which the AI uses to improve future suggestions.
+
+1. User sign in the application
+2. User answers the survey and give inputs (check below)
+3. User gets a personal recipe (main points and details) for improving wellbeing and health
+4. User can give feedback and the recipe is specified based on earlier recommended recipes (with chatbot). 
 
 Inputs at the moment:
 * sleep (quality, amount)
@@ -47,7 +58,7 @@ Inputs at the moment:
 * circadian rhythm (timing, person type) 
 * emotions and thoughts (management, amount, quality)
 * work (breaks, timing, flow, readiness, meaningfulness, education, responsibility, values etc.)
-* health behavior (activities, alcohol, smoking, emotions, relaxing, stress, awareness, helping etc.)
+* health behavior (activities, sports, alcohol, smoking, emotions, relaxing, stress, awareness, helping etc.)
 * resilience and readiness (stress, pain, cold, hot etc.)
 * health status
   
