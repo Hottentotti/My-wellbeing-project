@@ -28,10 +28,17 @@ The solution is used when people need personal assistance to have more resources
 
 ![tynnyri](https://github.com/Hottentotti/My-wellbeing-project/assets/171318566/2e773cae-8958-4a5f-b2ce-718e8d5f553d)
 
+Figure: 
+* Voimavarojen saaminen = receiving recourses: meaningful work, sleep, activities, needs etc. 
+* Voimavarojen antaminen = giving recourses: work, family, friends, activities etc.
+* Voimavarkaita = stress factors: negative thoughts and emotions, bad fitness, bad work management, alcohol, bad conscience, unsafety, conflict of values etc. 
+* Hyvinvoinnin pohja = base of recourses, wellbeing and resilience: self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, relaxing and enjoying, and emotional skills
+* Oma raja = own border
+
 
 ## Data sources and AI methods
 
-Data can be collected by myself or someone else. Collected data aims for improving personal recourses and wellbeing by improving self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills. The idea is that a user gives inputs after which the user gets a personal receipt for improving wellbeing and health. After that a user can specify the the receipt with chatbot if needed. AI methods consist of neural network with machine learning (deep learning). 
+Data can be collected by myself or someone else. Collected data aims for improving personal recourses and wellbeing by improving self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills. The idea is that a user gives inputs after which the user gets a personal receipt for improving wellbeing and health. After that a user can specify the the receipt with chatbot if needed. AI methods consist of convolutional neural network with machine learning (deep learning). 
 
 Inputs at the moment:
 * sleep (quality, amount)
