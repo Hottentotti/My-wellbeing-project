@@ -42,7 +42,7 @@ Data is collected by myself or someone else. Collected data aims for improving p
 
 1. User signs in the application. 
 2. User answers the survey and give inputs (check below). 
-3. AI analyzes the data: user preferences and exceptions are included in neural network (deep-learning)
+3. AI analyzes the data: user inputs are included in neural network. 
 4. User gets a personal recipe (main points and details) for improving personal wellbeing and health
 5. User can give feedback and the recipe is specified based on earlier recommended recipes with chatbot (Large Language Model). 
 
