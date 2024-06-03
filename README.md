@@ -1,4 +1,6 @@
-# Lead yourself towards better wellbeing and performance by optimizing your resources
+# Wellbeing and Performance Booster
+
+Lead yourself towards better wellbeing and performance by optimizing your resources. 
 
 
 ## Summary
@@ -7,6 +9,7 @@ It is typical that people give more resources than they can receive. As they rec
 
 
 ## Background
+
 It has been studied that generally 20-30% of employees experience fatigue that cannot help but affect their performance. It derives from the fact that people are typically too tired or exhausted to receive or give resources. This solution boosts personal input such as recourses, wellbeing and health by improving personal self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, relaxing and enjoying, and emotional skills so that performance is better. 
 
 Problems to solve:
