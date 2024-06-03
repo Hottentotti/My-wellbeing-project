@@ -34,13 +34,13 @@ Data can be collected by myself or someone else. Collected data aims for improvi
 
 Inputs at the moment:
 * sleep (quality, amount)
-* nutrition (quality, timing)
+* nutrition (quality, amount, rhythm)
 * needs (acceptance, closeness, touching, love etc.)
 * circadian rhythm (timing, person type) 
 * emotions and thoughts (management, amount, quality)
-* work (breaks, timing, flow, readiness, meaningfulness, education, responsibility)
-* health behavior (activities, alcohol, smoking, emotions, relaxing, stress, awareness, helping)
-* resilience and readiness (stress, pain, cold, hot)
+* work (breaks, timing, flow, readiness, meaningfulness, education, responsibility, values etc.)
+* health behavior (activities, alcohol, smoking, emotions, relaxing, stress, awareness, helping etc.)
+* resilience and readiness (stress, pain, cold, hot etc.)
 * health status
   
 
