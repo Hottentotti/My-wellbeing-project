@@ -1,6 +1,4 @@
-# Project title
-
-Lead yourself towards better wellbeing and performance by optimizing your resources
+# Lead yourself towards better wellbeing and performance by optimizing your resources
 
 
 ## Summary
