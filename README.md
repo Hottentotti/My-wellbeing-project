@@ -1,83 +1,59 @@
 # Project title
 
-Lead yourself towards better life by optimizing your resources (with personal advisor)
+Boost yourself towards better wellbeing and performance by optimizing your resources
+
 
 ## Summary
 
-It is typical that people give more resources than they can receive. As they receive more resources than they give, they typically feel better and healthier. This way they can give more to life and work that also feed their recourses and body. 
+It is typical that people give more resources than they can receive. As they receive more resources than they give, they typically feel better and healthier. This way they can give more to life and work that also feed their recourses and body to make life more meaningful. 
 
 
 ## Background
-People are typically too tired or exhausted to receive or give resources. This solution improves personal recourses, wellbeing and health by raising personal self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, relaxing, and emotional skills.
+It has been studied that generally 20-30% of employees experience fatigue that cannot help but affect their performance. It derives from the fact that people are typically too tired or exhausted to receive or give resources. This solution boosts personal input such as recourses, wellbeing and health by improving personal self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, relaxing and enjoying, and emotional skills so that performance is better. 
 
-This is how you make a list, if you need one:
-* People are typically not productive and helpful. 
-* People cannot typically enjoy life.
-* People do not typically feel well.
-* People are not typically energetic and healthly.
+Problems to solve:
+* People do not know themselves sufficiently.
+* People cannot listen and sense themselves sufficiently.
+* People cannot lead themselves sufficiently. 
+* People cannot take care of themselves sufficiently. 
+* People cannot relax and enjoy sufficiently. 
+* People have poor emotional skills. 
+* People have poor awareness skills. 
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The solution is used when people need personal assistance to have more resources (e.g., fatigue, exhaustion). This solution is meant for all kind of users such as employers, employees and umemployed and its idea bases on the figure (check below). The simple idea is that people should receive more recourses than they give so that they can give (and get) more. As a result people can have an own wellbeing receipt that helps them to better input and output everyday. 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+![tynnyri](https://github.com/Hottentotti/My-wellbeing-project/assets/171318566/2e773cae-8958-4a5f-b2ce-718e8d5f553d)
 
 
 ## Data sources and AI methods
 
-Data can be collected by myself or by someone else. Collected data aims for improving personal recourses and wellbeing by raising self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills.
-Inputs:
+Data can be collected by myself or someone else. Collected data aims for improving personal recourses and wellbeing by improving self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills. The idea is that a user gives inputs after which the user gets a personal receipt for improving wellbeing and health. After that a user can specify the the receipt with chatbot if needed. AI methods consist of neural network with machine learning (deep learning). 
+
+Inputs at the moment:
 * sleep (quality, amount)
-* nutrition
-* needs (acceptance, closeness, love, 
-* circadian rhythm (timing, person type, 
-* activities
-* emotions (management, amount, quality)
-* thoughts (quality, management)
-* work (breaks, timing, flow, readiness, education, 
-* health behavior (alcohol, smoking, emotions, relaxing)
-* stress (management, quality)
-* resilience, readiness (pain, cold, hot)
+* nutrition (quality, timing)
+* needs (acceptance, closeness, touching, love etc.)
+* circadian rhythm (timing, person type) 
+* emotions and thoughts (management, amount, quality)
+* work (breaks, timing, flow, readiness, meaningfulness, education, responsibility)
+* health behavior (activities, alcohol, smoking, emotions, relaxing, stress, awareness, helping)
+* resilience and readiness (stress, pain, cold, hot)
 * health status
   
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Sometimes fatigue or exhaustion derive from health issues such as illnesses. This project cannot solve that kind of issues. Also some cultural issues cannot be solved with this solution. It is also possible that the recipe that AI has generated does not work for everybody. That is why the recipe should be modified if possible. 
+
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+This project will grow step by step. At first there are only a couple of parameters and some AI, but later much more. To move on, I need assistance for data collection, coding and AI. 
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* https://www.linkedin.com/posts/matti-j-hokkanen_kokonaisvaltainenhyvinvointi-hyvinvointi-activity-6935511434948718592-lCJ_?utm_source=share&utm_medium=member_desktop
