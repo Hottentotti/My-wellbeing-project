@@ -1,6 +1,6 @@
 # Wellbeing and Performance Booster
 
-Lead yourself towards better wellbeing and performance by optimizing your resources. 
+Lead yourself towards better wellbeing and performance by boosting your resources. 
 
 
 ## Summary
@@ -10,7 +10,7 @@ It is typical that people give more resources than they can receive. As they rec
 
 ## Background
 
-It has been studied that generally 20-30% of employees experience fatigue that cannot help but affect their performance. It derives from the fact that people are typically too tired or exhausted to receive or give resources. This solution boosts personal input such as recourses, wellbeing and health by improving personal self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, relaxing and enjoying, and emotional skills so that performance is better. 
+It has been studied that generally 20-30% of employees experience fatigue, and that cannot help but affect their performance. It derives from the fact that their resources are not in balance. This solution boosts personal input such as recourses and resilience by improving personal self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, relaxing and enjoying, and emotional skills so that health, wellbeing and performance will be better. 
 
 Problems to solve:
 * People do not know themselves sufficiently.
@@ -24,14 +24,14 @@ Problems to solve:
 
 ## How is it used?
 
-The solution is used when people need personal assistance to have more resources (e.g., fatigue, exhaustion). This solution is meant for all kind of users such as employers, employees and umemployed and its idea bases on the figure (check below). The simple idea is that people should receive more recourses than they give so that they can give (and get) more. As a result people can have an own wellbeing receipt that helps them to better input and output everyday. 
+The solution is used when people need personal assistance to have more resources for example to avoid or treat fatigue and exhaustion. This solution is meant for all kind of users such as employers, employees and umemployed and its idea bases on the figure (check below). The simple idea is that people should receive more recourses than they give so that they can give (and get) more. As a result people can have an own wellbeing receipt that helps them to better "input and output" everyday. 
 
 ![tynnyri](https://github.com/Hottentotti/My-wellbeing-project/assets/171318566/2e773cae-8958-4a5f-b2ce-718e8d5f553d)
 
-Figure: 
+Figure explanations: 
 * Voimavarojen saaminen = receiving recourses: meaningful work, sleep, activities, needs etc. 
 * Voimavarojen antaminen = giving recourses: work, family, friends, activities etc.
-* Voimavarkaita = stress factors: negative thoughts and emotions, bad fitness, bad work management, alcohol, bad conscience, unsafety, conflict of values, pushing hard etc. 
+* Voimavarkaita = stress factors: negative thoughts and emotions, bad fitness, bad sleep, bad work management, alcohol, bad conscience, unsafety, conflict of values, pushing hard etc. 
 * Hyvinvoinnin pohja = base of recourses, wellbeing and resilience: self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, relaxing and enjoying, and emotional skills
 * Oma raja = own border
 
@@ -40,37 +40,33 @@ Figure:
 
 Data is collected by myself or someone else. Collected data aims for improving personal recourses and wellbeing by improving self-knowledge, self-confidence, self-management, self-care, self-sensing, self-listening, awareness, and emotional skills. 
 
-
-    User signs up and provides initial preferences: Users input their preferences and interests during sign-up.
-    AI analyzes data: The AI processes user preferences, shopping history, and available product data.
-    Personalized recommendations: The assistant offers product recommendations based on the analysis.
-    Feedback loop: Users provide feedback on recommendations, which the AI uses to improve future suggestions.
-
 1. User sign in the application
 2. User answers the survey and give inputs (check below)
-3. User gets a personal recipe (main points and details) for improving wellbeing and health
-4. User can give feedback and the recipe is specified based on earlier recommended recipes (with chatbot). 
+3. AI analyzes the data: user preferences and earlier recipes are included in neural network (deep-learning)
+4. User gets a personal recipe (main points and details) for improving personal wellbeing and health
+5. User can give feedback and the recipe is specified based on earlier recommended recipes (with chatbot). 
 
 Inputs at the moment:
 * sleep (quality, amount)
 * nutrition (quality, amount, rhythm)
-* needs (acceptance, closeness, touching, love etc.)
+* physical activity (amount, diversity, timing)
 * circadian rhythm (timing, person type) 
 * emotions and thoughts (management, amount, quality)
-* work (breaks, timing, flow, readiness, meaningfulness, education, responsibility, values etc.)
-* health behavior (activities, sports, alcohol, smoking, emotions, relaxing, stress, awareness, helping etc.)
-* resilience and readiness (stress, pain, cold, hot etc.)
+* work (amount, breaks, timing, flow, readiness, meaningfulness, education, responsibility, values etc.)
+* other health behavior (alcohol, smoking, emotions, relaxing, stress, awareness, needs, balance between work and freetime, helping etc.)
+* resilience (stress, pain, cold, hot, illnesses etc.)
+* readiness or alertness (timing)
 * health status
   
 
 ## Challenges
 
-Sometimes fatigue or exhaustion derive from health issues such as illnesses. This project cannot solve that kind of issues. Also some cultural issues cannot be solved with this solution. It is also possible that the recipe that AI has generated does not work for everybody. That is why the recipe should be modified if possible. 
+Sometimes fatigue or exhaustion derive from health issues such as illnesses. This project cannot solve that kind of issues. Also some cultural issues cannot be solved with this solution. It is also possible that the recipe that AI has generated does not work for somebody. That is why the recipe should be modified if possible. In addition, people gives very personal inputs for analysis and thus data privacy need to be taken into account very carefully.
 
 
 ## What next?
 
-This project will grow step by step. At first there are only a couple of parameters and some AI, but later much more. To move on, I need assistance for data collection, coding and AI. 
+This project will grow step by step. At first there are only a couple of parameters and some AI, but later much more. To move on, I need assistance for data collection, coding, UX/UI and AI. 
 
 
 ## Acknowledgments
